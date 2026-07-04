@@ -1,2 +1,2 @@
 # Stimmie MC Launcher
-A lightweight, custom Python-based Minecraft Launcher utilizing PyQt6.
+A lightweight, custom Python-based Minecraft Launcher using PyQt6.
